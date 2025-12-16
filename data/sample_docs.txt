@@ -1,1 +1,4 @@
+OCI Generative AI provides powerful embedding and LLM models.
+Vector search enables semantic similarity matching.
+Oracle databases now support AI-driven workloads.
 
